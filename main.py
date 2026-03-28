@@ -6,8 +6,8 @@ from aiogram.filters import Command
 from yt_dlp import YoutubeDL
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8501826335:AAFkOqKJE6QfWnJnSLg7qOm4B6gOCmwxEhM' # Tokeningiz
-DB_NAME = 'juratbot2008.db'
+API_TOKEN = '8638824842:AAFwgo6z0Ml_fxwCFZzlCBuFkYTSB89tB3k' # Tokeningiz
+DB_NAME = 'juratpgbot.db'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
